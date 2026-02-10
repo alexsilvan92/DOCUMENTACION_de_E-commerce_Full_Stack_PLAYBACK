@@ -281,9 +281,7 @@ Incluye historial y comunicación por email.
 
 ## 🏁 Valor del proyecto
 
-|                               |
-| ----------------------------- |
-| ✔ Arquitectura profesional    |
-| ✔ Flujo real de negocio       |
-| ✔ Escalable y defendible      |
-| ✔ Enfoque full stack completo |
+✔ Arquitectura profesional  
+✔ Flujo real de negocio  
+✔ Escalable y defendible  
+✔ Enfoque full stack completo
