@@ -20,6 +20,11 @@ Construir una aplicación web de **e-commerce moderna, escalable y realista**, d
 
 > ⚠️ El objetivo **no es un CRUD**, sino un **producto defendible como negocio real**.
 
+📄 Documentación
+- [Features](docs/FEATURE.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Roadmap](docs/ROADMAP.md)
+
 ---
 
 ## 🏗️ Arquitectura técnica

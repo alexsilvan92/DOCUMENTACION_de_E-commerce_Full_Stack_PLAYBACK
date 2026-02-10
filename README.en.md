@@ -20,6 +20,11 @@ Build a **modern, scalable, and realistic e-commerce web application**, designed
 
 > ⚠️ The goal is **not a CRUD**, but a **product defensible as a real business**.
 
+📄 Documentation
+- [Features](docs/FEATURE.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Roadmap](docs/ROADMAP.md)
+
 ---
 
 ## 🏗️ Technical Architecture
